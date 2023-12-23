@@ -1,4 +1,5 @@
-
+#!/bin/bash
+  
 DOCKER_FILE=src/main/docker/Dockerfile
 BUILD_DIR=build
 TAG_ORG=shlibnet
